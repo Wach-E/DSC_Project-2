@@ -24,7 +24,7 @@ h1 {
     display: inline-block;
     max-width: 25rem;
     min-height: 0.2rem;
-    background-color: rgb(120, 65, 156);
+    background-color: #E5E5E5;
     padding-top: 2rem;
     padding-left: 2rem;
     padding-right: 2rem;
@@ -59,7 +59,7 @@ h1 {
     width: 6rem;
     height: 2.2rem;
     z-index: 2;
-    background-color: rgb(120, 65, 156);
+    background-color: #8943F4;
     color: white;
     font-size: 12px;
     border: thin;
