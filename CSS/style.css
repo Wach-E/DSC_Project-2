@@ -56,6 +56,9 @@ h1 {
 #findMentor {
     display: inline-block;
     width: 30%;
+    position: absolute;
+    top: 20rem;
+    float: right;
     height: 2.2rem;
     z-index: 2;
     background-color: #8943F4;
