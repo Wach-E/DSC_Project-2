@@ -35,7 +35,7 @@ h1 {
 
 #searchMentor {
     display: inline-block;
-    width: 17rem;
+    width: 70%;
     height: 2rem;
     border: thin;
     border-radius: 2rem;
@@ -49,11 +49,14 @@ h1 {
     padding-top: -1rem;
 }
 
-
+.reasearch {
+    max-width: 17rem;
+    height: 2rem;
+}
 #findMentor {
     display: inline-block;
     position: relative;
-    width: 6rem;
+    width: 30%;
     height: 2.2rem;
     z-index: 2;
     background-color: #8943F4;
