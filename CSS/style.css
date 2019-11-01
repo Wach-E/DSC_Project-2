@@ -57,8 +57,8 @@ h1 {
     display: inline-block;
     width: 30%;
     position: absolute;
-    top: 21rem;
-    float: right;
+    top: 21.5rem;
+    right: 0rem;
     height: 2.2rem;
     z-index: 2;
     background-color: #8943F4;
