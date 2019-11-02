@@ -69,3 +69,40 @@ h1 {
     box-shadow: 4px 4px 8px 3px rgba(0, 0, 0, 0.2);
 }
 
+.boxTwo {
+    display: inline-flex;
+    flex-flow: row wrap;
+    width: 25em;
+    position: relative;
+    top: 0rem;
+}
+
+.navigation {
+    max-width: 25rem;
+}
+nav {
+    background-color: #E8D7FF;
+    width: 100%;
+    margin-left: -2px;
+    padding: 1rem 1.5rem;
+    background-color: white;
+}
+
+
+li {
+    display: inline-block;
+    list-style: none;
+    margin: 0.5rem auto;
+    padding-right: 3rem;
+    font-size: 13px;
+    color: #8943F4;;
+}
+
+#getstarted {
+    background-color: #8943F4;
+    color: white;
+    font-size: 13px;
+    border: thin;
+    border-radius: 2rem;
+    box-shadow: 4px 4px 8px 3px rgba(0, 0, 0, 0.2);
+}
